@@ -1,6 +1,6 @@
 # *Prevotella pallens*–Associated Xanthurenate Depletion Defines a Region-Specific Microbial–Metabolic Axis in Mild Pediatric Atopic Dermatitis
 
-**Authors:** Lee JY†, Kim HB†, Um JY, Chung BY, Park CW, Kim MJ, Bae J-W, Kim K\*, Kim HO\*.
+**Authors:** JY Lee†, HB Kim†, JY Um, BY Chung , CW Park , MJ Kim , J-W Bae , K Kim\*, HO Kim\*.
 
 ## Files included in this repository
 
@@ -18,7 +18,7 @@
 
 - Summary statistics and raw results for differential abundance analysis, network analysis, regression analysis, and other statistical analyses are provided in **the Supplementary Tables of the associated article**.
 
-### Installation
+### Installation for the beta-diversity analysis
 
 ```r
 # CRAN packages
