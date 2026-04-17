@@ -12,6 +12,8 @@ Authors: Lee JY†, Kim HB†, Um JY, Chung BY, Park CW, Kim MJ, Bae J-W, Kim K\
     - Tryptophan metabolite profile: Metaphlan4로 생성한 shotgun metagenome data의 taxonomic profile
     - sample metadata: [설명추가]    
 - `beta_diversity_analysis/beta_diversity_analysis.R`: R script for the beta-diversity analyses performed on microbiome and metabolome data, including distance calucation, PCoA ordination, and PERMANOVA testing.
+- Differential abundance analysis, network analysis, regression and other statistics models를 사용한 분석에 대한 raw data는 모두 논문의 Supplementary Table 파일에 공개 돼 있으므로 해당 문서를 참조 바랍니다.
+
 ### Installation
 
 ```r
